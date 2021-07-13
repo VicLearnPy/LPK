@@ -2,6 +2,8 @@
 # LPK
 Find a word in file (Java/Python/C++/Json ) ...
 
+CANT DECOMPILE .EXE
+
 Drag the file you want to scan in console 
 
 Then its good
