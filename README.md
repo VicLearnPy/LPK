@@ -3,7 +3,7 @@
 Find a word in file (Java/Python/C++/Json ) ...
 
 CANT DECOMPILE .EXE
-
+Put LPK and the file you want on desktop 
 Drag the file you want to scan in console 
 
 Then its good
